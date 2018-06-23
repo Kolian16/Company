@@ -1,0 +1,160 @@
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\Company.exe.config
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\x86\e_sqlite3.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\x64\e_sqlite3.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\Company.exe
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\Company.pdb
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\ControlzEx.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\EntityFramework.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\MahApps.Metro.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\SQLite-net.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\SQLitePCLRaw.batteries_green.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\SQLitePCLRaw.core.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\System.Data.SQLite.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\System.Data.SQLite.EF6.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\System.Data.SQLite.Linq.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\System.Windows.Interactivity.dll
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\ControlzEx.pdb
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\EntityFramework.xml
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\MahApps.Metro.pdb
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\MahApps.Metro.xml
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\SQLite-net.pdb
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\SQLite-net.xml
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\bin\Debug\System.Data.SQLite.xml
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\MainWindow.g.cs
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\App.g.cs
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\Company_Content.g.cs
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\Company_MarkupCompile.cache
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\MainWindow.baml
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\Company.g.resources
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\Company.Properties.Resources.resources
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\Company.csproj.GenerateResource.Cache
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\Company.exe
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\Company.pdb
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\Company_MarkupCompile.lref
+c:\users\kolian\documents\visual studio 2015\Projects\Company\Company\obj\Debug\App.baml
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\Company.exe.config
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\Company.exe
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\Company.pdb
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\x86\e_sqlite3.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\x64\e_sqlite3.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\Company.exe
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\Company.pdb
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\ControlzEx.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\EntityFramework.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\MahApps.Metro.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\SQLite-net.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\System.Data.SQLite.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\ControlzEx.pdb
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\EntityFramework.xml
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\MahApps.Metro.pdb
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\MahApps.Metro.xml
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\SQLite-net.pdb
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\SQLite-net.xml
+C:\Users\wwwta\Desktop\Company\Company\bin\Debug\System.Data.SQLite.xml
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\MainWindow.baml
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\MainWindow.g.cs
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\App.g.cs
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\Company_Content.g.cs
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\Company_MarkupCompile.cache
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\Company_MarkupCompile.lref
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\App.baml
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\Company.g.resources
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\Company.Properties.Resources.resources
+C:\Users\wwwta\Desktop\Company\Company\obj\Debug\Company.csproj.GenerateResource.Cache
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\Company.exe.config
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\Company.exe
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\Company.pdb
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\x86\e_sqlite3.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\x64\e_sqlite3.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\Company.exe
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\Company.pdb
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\ControlzEx.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\EntityFramework.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\MahApps.Metro.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\SQLite-net.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\System.Data.SQLite.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\ControlzEx.pdb
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\EntityFramework.xml
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\MahApps.Metro.pdb
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\MahApps.Metro.xml
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\SQLite-net.pdb
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\SQLite-net.xml
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\System.Data.SQLite.xml
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\MainWindow.baml
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\MainWindow.g.cs
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\App.g.cs
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\Company_Content.g.cs
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\Company_MarkupCompile.cache
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\Company_MarkupCompile.lref
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\App.baml
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\Company.g.resources
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\Company.Properties.Resources.resources
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\Company.csproj.GenerateResource.Cache
+C:\Users\kolian\Desktop\Company 17 06 18\Company\bin\Debug\WpfChosenControl.dll
+C:\Users\kolian\Desktop\Company 17 06 18\Company\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\Company.exe.config
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\Company.exe
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\Company.pdb
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\x86\e_sqlite3.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\x64\e_sqlite3.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\Company.exe
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\Company.pdb
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\ControlzEx.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\EntityFramework.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\MahApps.Metro.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\SQLite-net.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\System.Data.SQLite.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\WpfChosenControl.dll
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\ControlzEx.pdb
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\EntityFramework.xml
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\MahApps.Metro.pdb
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\MahApps.Metro.xml
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\SQLite-net.pdb
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\SQLite-net.xml
+C:\Users\wwwta\Desktop\Company 21 06\Company\bin\Debug\System.Data.SQLite.xml
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\Company.csprojResolveAssemblyReference.cache
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\MainWindow.g.cs
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\App.g.cs
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\Company_Content.g.cs
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\Company_MarkupCompile.cache
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\Company_MarkupCompile.lref
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\App.baml
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\MainWindow.baml
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\Company.g.resources
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\Company.Properties.Resources.resources
+C:\Users\wwwta\Desktop\Company 21 06\Company\obj\Debug\Company.csproj.GenerateResource.Cache
