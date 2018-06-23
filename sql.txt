@@ -13,4 +13,4 @@ select b.name, d.name_group, b.Date, b.wage
     where  c.chief_id = a.id
   and c.department_id = b.id
   and b.group_id = d.id
-  and c.chief_id =36
+  and c.chief_id =36 h
